@@ -6,6 +6,10 @@ One theme file holds both versions. T3 Code switches between light and dark with
 
 *Versión en español [abajo](#español).*
 
+| Islands Dark | Islands Light |
+| --- | --- |
+| ![Islands Dark in T3 Code](screenshots/islands-dark.png) | ![Islands Light in T3 Code](screenshots/islands-light.png) |
+
 ## Install
 
 ### Option 1: CLI (one line)
@@ -57,6 +61,10 @@ This project is not affiliated with or endorsed by JetBrains. "JetBrains", "Inte
 ## Español
 
 Theme para [T3 Code](https://github.com/pingdotgg/t3code) que reproduce **Islands Dark** e **Islands Light**, los themes por defecto de los IDEs de JetBrains desde la versión 2025.x. Un solo archivo trae las dos versiones, y T3 Code cambia entre light y dark según tu modo de apariencia, igual que con sus themes integrados.
+
+![Islands Dark](screenshots/islands-dark.png)
+
+![Islands Light](screenshots/islands-light.png)
 
 ### Instalación
 
